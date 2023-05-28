@@ -15,43 +15,24 @@ You can read more about PCF controls [Here](https://learn.microsoft.com/en-us/po
 1. [CSS Template and Component Generators](#CSS_T&C)
 2. [Javascript Tools](#JavaScript_Tools) 
 
-
+```
 Template for new content list
 1. [DisplayName](Link to attribute)
-
+```
 
 ## CSS Template and Component Generators
 <a name="CSS_T&C" />
 
-The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
 
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
+![TailKit](https://github.com/ReuelNgo/FrontEnd-Tools-List/assets/66561673/7a0ffa5c-91f7-4beb-9721-0d75051fcd78)
 
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
+"Tailwind Kit is a comprehensive collection of pre-designed components built with Tailwind CSS, a utility-first CSS framework. The Tailwind Kit Components website offers a wide range of ready-to-use UI components, including buttons, cards, forms, navigation menus, and more. With Tailwind Kit, you can quickly and easily enhance the visual appearance and functionality of your web projects by leveraging the power of Tailwind CSS. Explore the extensive library of beautifully crafted components to speed up your development process and create modern, responsive designs effortlessly."[^AI Generated]
 
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
-
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
-
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
-
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
-
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
-
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
-
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
-
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
-
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. The PowerApp Component Framework is a framework allows developers to quickly make custom code components for Power Platform Canvas Apps, or model driven apps.
-
-We frequently call the custom components __PCF controls__. These PCF controls can be used to enhance the app by creating user-centric controls to enhance the workflow or program specific functions into the controls for a better user experience, should OOTB components be insufficent. 
+[^AI Generated]: This was generated by feeding Chat GPT with a link of the site. I didn't check through it so it might not be super accurate 😃.
 
 
 
-https://www.tailwind-kit.com/components
+
 
 ## JavaScript Tools
 <a name="JavaScript_Tools" />
