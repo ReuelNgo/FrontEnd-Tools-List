@@ -15,10 +15,10 @@ You can read more about PCF controls [Here](https://learn.microsoft.com/en-us/po
 1. [CSS Template and Component Generators](#CSS_T&C)
 2. [Javascript Tools](#JavaScript_Tools) 
 
-```
+<!--
 Template for new content list
 1. [DisplayName](Link to attribute)
-```
+-->
 
 ### CSS Template and Component Generators
 <a name="CSS_T&C" />
@@ -46,7 +46,7 @@ Tailwind Components simplifies the process of designing and developing modern we
 https://github.com/Pikaday/Pikaday
 
 
-```
+<!--
 Template for new Content Anchor +  Tool
 ### Anchor Name
 <a name="Anchor Name" />
@@ -56,7 +56,7 @@ Template for new Content Anchor +  Tool
 </div>
 
 Insert a description of the Tool here. You can make one with chatgpt
-```
+-->
 
 
 
