@@ -33,7 +33,7 @@ Tailwind Kit is a comprehensive collection of pre-designed components built with
 
 ## [Tailwind Components](https://tailwindcomponents.com/) 
 <div align="center">
-  <img src="[https://github.com/ReuelNgo/FrontEnd-Tools-List/assets/66561673/7a0ffa5c-91f7-4beb-9721-0d75051fcd78](https://github.com/ReuelNgo/FrontEnd-Tools-List/assets/66561673/695efd89-9a32-4c1b-871f-6f17c4bc88ee)" alt="Alt Text" width="500">
+  <img src="https://github.com/ReuelNgo/FrontEnd-Tools-List/assets/66561673/695efd89-9a32-4c1b-871f-6f17c4bc88ee" alt="Alt Text" width="500">
 </div>
 Tailwind Components simplifies the process of designing and developing modern web interfaces. Each component is thoughtfully designed and implemented using Tailwind CSS classes, allowing you to quickly integrate them into your projects. Whether you are a beginner or an experienced developer, Tailwind Components provides a wide selection of pre-built components that can be customized and adapted to suit your specific design requirements.
 
