@@ -12,23 +12,21 @@ You can read more about PCF controls [Here](https://learn.microsoft.com/en-us/po
 ---
 
 ### Contents
-- [Section 1](section-1)
-- [Section 2](#section-2)
-- [Section 3](#section-3)
+1. [CSS Template and Component Generators](#CSS_T&C)
+2. [Javascript Tools](#JavaScript_Tools) 
 
-## Section 1 {section-1}
 
-This is the content of section 1.
+Template for new content list
+1. [DisplayName](Link to attribute)
 
-## Section 2 {#section-2}
 
-This is the content of section 2.
+## CSS Template and Component Generators
+<a name="CSS_T&C" />
 
-## Section 3 {#section-3}
-
-This is the content of section 3.
-
----
-<a name="CSS Generators" />
 
 https://www.tailwind-kit.com/components
+
+## JavaScript Tools
+<a name="JavaScript_Tools" />
+https://github.com/Pikaday/Pikaday
+
