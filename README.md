@@ -39,7 +39,7 @@ Tailwind Components simplifies the process of designing and developing modern we
 
 ### [Neurmorphism](https://neumorphism.io/#e0e0e0)
 <div align="center">
-  <img src="![image](https://github.com/ReuelNgo/FrontEnd-Tools-List/assets/66561673/b424ab70-5e10-4c7b-b33d-32dd89879c17)" alt="Alt Text" width="500">
+  <img src="![image](https://github.com/ReuelNgo/FrontEnd-Tools-List/assets/66561673/b424ab70-5e10-4c7b-b33d-32dd89879c17) alt="Alt Text" width="500">
 </div>
 You can create shapes and stuff by draggin sliders instead of writing px numbers of percentages.
 
